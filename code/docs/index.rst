@@ -6,8 +6,10 @@
 Covert Channel documentation
 ============================
 
-Please add your names, group ID, and your link to the forked public repository here by editing `index.rst` in the docs folder.
-
+Hamdi Alperen Karapınar, 2448561
+Rabia Şahin, 2521953
+Group 66
+https://github.com/alperenkrpnr/covertovert
 
 .. toctree::
    :maxdepth: 2
